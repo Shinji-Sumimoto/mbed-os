@@ -1517,6 +1517,19 @@
             "STM32F303x8"
         ]
     },
+    "NUCLEO_F302R8": {
+        "inherits": [
+            "MCU_STM32F302x8"
+        ],
+        "overrides": {
+            "clock_source": "USE_PLL_HSI",
+            "lse_available": 0
+        },
+        "detect_code": [
+            "0775"
+        ],
+        "device_name": "STM32F302R8"
+    },
     "NUCLEO_F303K8": {
         "inherits": [
             "MCU_STM32F303x8"
