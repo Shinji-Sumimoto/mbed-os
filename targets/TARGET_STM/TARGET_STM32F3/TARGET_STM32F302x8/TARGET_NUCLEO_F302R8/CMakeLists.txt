@@ -8,5 +8,5 @@ target_include_directories(mbed-core
 
 target_sources(mbed-core
     INTERFACE
-        PeripheralPins.o
+        PeripheralPins.c
 )
