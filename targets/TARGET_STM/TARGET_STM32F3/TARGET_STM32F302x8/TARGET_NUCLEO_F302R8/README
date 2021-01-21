@@ -1,0 +1,11 @@
+These files are downloaded from:
+
+PeripheralPins.c:
+	https://os.mbed.com/users/mbed_official/code/mbed-dev//raw-file/f392fc9709a3/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F302x8/TARGET_NUCLEO_F302R8/PeripheralPins.c
+
+PeripheralNames.h:
+	https://os.mbed.com/users/mbed_official/code/mbed//raw-file/65be27845400/TARGET_NUCLEO_F302R8/TOOLCHAIN_GCC_ARM/PeripheralNames.h
+
+PinNames.h:
+	https://os.mbed.com/users/mbed_official/code/mbed-dev//raw-file/f392fc9709a3/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F302x8/TARGET_NUCLEO_F302R8/PinNames.h
+	or https://os.mbed.com/users/mbed_official/code/mbed//raw-file/65be27845400/TARGET_NUCLEO_F302R8/TOOLCHAIN_GCC_ARM/PinNames.h
